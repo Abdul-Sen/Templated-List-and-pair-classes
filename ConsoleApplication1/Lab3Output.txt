@@ -1,0 +1,10 @@
+
+Price List
+-----------
+CPU : 170
+GPU : 450
+
+Entries
+-------
+CPU : Central Processing Unit
+GPU : Graphics Processing unit
